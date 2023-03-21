@@ -2,6 +2,7 @@ import React from 'react'
 
 function Form() {
   return (
+<div className="container bg-cover bg-center h-screen " >   
     <div>
         <h1 className='text-white font-bold text-center text-3xl mb-3 animate-pulse'>REGISTRATION FORM</h1>
       
@@ -128,6 +129,7 @@ function Form() {
   </div>
 </div>
     </div>
+</div>
   )
 }
 
